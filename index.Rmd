@@ -1,6 +1,6 @@
 ---
-title: "A Mini Bookdown"
-author: "Your Name"
+title: "GitHub for Cataloging Workflows"
+author: "Dinorah Pinelo"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
